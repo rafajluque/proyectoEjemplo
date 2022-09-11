@@ -20,7 +20,15 @@ Mi primer repositorio de Github
 
 
 Más lineas
+
+ 
+ # Documentación 2 (Dev2)
+ Documentación del desarrollador 2
+
  # Documentación del desarrollador 1 (Dev 1)
  Documentación del desarrollador 1
 
+<<<<<<< HEAD
 Cambio en README
+=======
+>>>>>>> 98ada6d4fdda86b5abe06264e2069c6f9514a5c6
