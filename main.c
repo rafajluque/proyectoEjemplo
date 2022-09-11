@@ -10,5 +10,5 @@ int main (void)
     // git branch Dev1              // Crea una nueva RAMA
     // git checkout Dev1            // Entramos en esa RAMA
 
-
+    printf("cerra ventana")
 }   
