@@ -13,5 +13,11 @@ Mi primer repositorio de Github
 
 
 Más lineas
+
+ 
+ # Documentación 2 (Dev2)
+ Documentación del desarrollador 2
+
  # Documentación del desarrollador 1 (Dev 1)
  Documentación del desarrollador 1
+
