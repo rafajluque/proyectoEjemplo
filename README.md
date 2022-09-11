@@ -12,6 +12,15 @@ Mi primer repositorio de Github
     // git checkout Dev1            // Entramos en esa RAMA
 
 
+    // git reset --hard             // Vuele al ultimo commint
+    // git checkout HEAD -- main.c  // Vuelve al ultimo commit solo del archivo main.c
+    
+
+
+
+
 Más lineas
  # Documentación del desarrollador 1 (Dev 1)
  Documentación del desarrollador 1
+
+Cambio en README
